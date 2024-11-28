@@ -1,0 +1,9 @@
+{
+    "programs": [],
+    "categories": [
+      { "name": "Lower Body", "exercises": ["Squats", "Lunges"] },
+      { "name": "Upper Body", "exercises": ["Push-ups", "Pull-ups"] },
+      { "name": "Core", "exercises": ["Plank", "Crunches"] }
+    ]
+  }
+  
