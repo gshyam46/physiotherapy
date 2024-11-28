@@ -1,0 +1,27 @@
+.notes {
+    margin: 1rem 0;
+  }
+  
+  .notes-label {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+  
+  .notes-textarea {
+    width: 100%;
+    min-height: 100px;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    resize: vertical;
+  }
+  
+  .notes-textarea:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
